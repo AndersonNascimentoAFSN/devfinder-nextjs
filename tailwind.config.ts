@@ -31,6 +31,10 @@ const config: Config = {
           50: '#F74646'
         },
       },
+      fontSize: {
+        'md': '0.8125rem',
+        '2md': '1.625rem',
+      },
     }
   },
   plugins: [],
